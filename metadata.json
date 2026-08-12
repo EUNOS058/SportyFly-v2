@@ -1,0 +1,6 @@
+{
+  "name": "SportyFly",
+  "description": "Ultra-lightweight IPTV Live TV streaming app for sports & channels built with Jetpack Compose & ExoPlayer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
